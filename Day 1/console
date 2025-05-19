@@ -1,0 +1,12 @@
+comment
+1. single line 
+//hello world
+2. multiple line
+/* hello
+  world*/
+
+  console.log("hello world");
+  console.error("hello world");
+  console.warn("hello world");
+  console.table([1,2,3]);
+  console.group("hello");

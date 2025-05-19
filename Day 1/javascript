@@ -1,0 +1,26 @@
+What is javascript?
+
+javascript is high level and a core technologies of web alongside HTML and CSS. it is use on both client and server side.
+
+Uses of javascript.
+1. DOM manipulation
+2. Event handling
+3. Asynchronous reavests
+4. Data manipulation (sorting,filtering etc)
+5. Storing data (cookies, local storage etc)
+6. Single page application(SPA)
+7. Creating Apis and web services (nodejs ,deno)
+
+Reason to learn javascript
+1. popularity
+2. versatility
+3. relatively easy to learn
+4. join community
+
+Environmental setup
+1. vs code
+2. git
+3. node.js
+4. live server
+5. prettier
+
