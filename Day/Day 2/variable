@@ -1,0 +1,62 @@
+// variables are containers that hold values
+
+// it either var, let or conts 
+
+let firstName = "binta";
+
+console.log(firstName);
+
+var age = 20;
+console.log(age);
+
+//naming convection
+//1. only letters ,numbers ,underscore and dollar signs are use
+//2. cannot start with a number
+
+//multi word format
+//1. firstName = camelCase
+//2. first_name = underscore
+//3. FirstName = pascalCase
+//4. firstname = lowerCase
+
+
+//reassingning variables
+age = 31;
+console.log(age);
+
+let score;
+score =1;
+console.log(score);
+
+if (true){
+    score = score +1;
+}
+console.log(score);
+
+const x = 100;
+//cannot be reassinged
+//cannot be initialized
+
+//array(mutiple value)
+
+const arr =[1,2,3,4];
+arr.push(5);
+console.log(arr);
+
+const person ={
+    name: 'john',
+};
+person.name='joy';
+person.email = 'joy@gmail.com';
+
+console.log(person);
+
+//declare mutiple values
+
+let a, b, c;
+
+a = 4;
+b = 6;
+c = 10;
+
+console.log(b);

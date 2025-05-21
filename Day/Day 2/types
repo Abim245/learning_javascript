@@ -1,0 +1,15 @@
+they are two types of data
+1. primitive data:  
+a.string
+b.numbers
+c.boolean
+d.bigint
+e. null
+f. undefined
+g. symbol
+
+2.references
+a.function
+b.array
+c.objects
+
