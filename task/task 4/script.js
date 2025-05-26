@@ -30,5 +30,5 @@ const lib =[
 
 lib[0].status.read=true;
 lib[0].title = 'first book';
-const {title:'first book'} = lib[0];
+const [title ='first book'] = lib[0];
 console.log('first book')
