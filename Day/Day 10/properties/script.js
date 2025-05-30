@@ -14,3 +14,7 @@ document.body;
 document.head;
 
 document.URL;
+document.childElementCount;
+document.contentType;
+document.forms;
+document.forms[0];
