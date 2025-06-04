@@ -16,3 +16,4 @@ child.parentNode.style.backgroundcolor ='#ffff';
 const secondItem = document.querySelector('child:nth-child(2)');
 
 output =secondItem.nextSibling;
+output = secondItem.previousSibling;
